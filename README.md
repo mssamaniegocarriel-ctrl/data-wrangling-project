@@ -1,6 +1,6 @@
-# 🏥 Clinical Trials Global Analysis
+#  Clinical Trials Global Analysis
 
-## 📊 Resumen Ejecutivo
+## Resumen 
 
 Este proyecto analiza el panorama global de los ensayos clínicos utilizando datos en tiempo real de la API pública de ClinicalTrials.gov v2, que contiene más de 500.000 estudios registrados a nivel mundial.
 
@@ -12,7 +12,7 @@ Este proyecto combina habilidades de análisis de datos con conocimiento del dom
 
 ---
 
-## 📑 Tabla de Contenidos
+##  Tabla de Contenidos
 
 - [Visualización principal](#visualización-principal)
 - [Objetivo del proyecto](#objetivo-del-proyecto)
@@ -27,7 +27,7 @@ Este proyecto combina habilidades de análisis de datos con conocimiento del dom
 
 ---
 
-## 📈 Visualización Principal
+##  Visualización Principal
 
 **Evolución temporal de ensayos clínicos (2000-2024)**
 
@@ -37,7 +37,7 @@ Este gráfico muestra el crecimiento sostenido de la investigación clínica glo
 
 ---
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 El objetivo de este proyecto es analizar el panorama global de los ensayos clínicos para identificar tendencias por fase de desarrollo, país y tipo de patrocinador.
 
@@ -52,7 +52,7 @@ Este análisis busca entender mejor la estructura global de la investigación cl
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 El análisis utiliza datos extraídos de:
 
@@ -88,7 +88,7 @@ El análisis utiliza datos extraídos de:
 
 ---
 
-## ⚙️ Proceso de Análisis
+##  Proceso de Análisis
 
 El proyecto sigue un pipeline completo de análisis de datos:
 
@@ -126,7 +126,7 @@ El proyecto sigue un pipeline completo de análisis de datos:
 
 ---
 
-## 🔎 Resultados e Insights
+##  Resultados e Insights
 
 **1️⃣ Distribución por fase — La pirámide de filtrado clínico**
 
@@ -164,7 +164,7 @@ Existe un patrón claro de especialización:
 
 ---
 
-## 🚀 Próximos Pasos
+##  Próximos Pasos
 
 Posibles extensiones del proyecto:
 
@@ -177,7 +177,7 @@ Posibles extensiones del proyecto:
 
 ---
 
-## 🔁 Cómo Reproducir el Análisis
+##  Cómo Reproducir el Análisis
 
 Este proyecto es completamente reproducible.
 
@@ -211,7 +211,7 @@ jupyter notebook notebooks/03_analysis.ipynb
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - Python 3.10
 - Pandas
@@ -225,7 +225,7 @@ jupyter notebook notebooks/03_analysis.ipynb
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 data-wrangling-project/
@@ -252,7 +252,7 @@ data-wrangling-project/
 
 ---
 
-## 📌 Resumen Simple
+##  Resumen Simple
 
 Este README responde a cinco preguntas clave:
 
@@ -275,7 +275,7 @@ Ejecutando el pipeline completo incluido en este repositorio — sin API key ni 
 
 ##  Autora
 
-**Mel Samaniego**
+**Melany Samaniego**
 Data Analytics Bootcamp | Formación en Laboratorio Clínico y Biomédica
 
 
